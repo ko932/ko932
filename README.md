@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Beb</h1>
-<h3 align="center">🚀 Full-Stack Developer | AI Builder | Startup Founder</h3>
+<h1 align="center">Hi 👋, I'm Om Durgade</h1>
+<h3 align="center">🚀 Full-Stack Developer | AI Builder | Startup Founder | Aspirants</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AI+Products;Founder+%40+Eduko;Future+Defense+Tech+Innovator;Turning+Ideas+Into+Reality" />
